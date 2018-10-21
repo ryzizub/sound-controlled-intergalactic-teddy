@@ -1,5 +1,14 @@
 {
   "projects": {
-    "default": "devfest-2018-teddy"
+    "default": "devfest-2018-cz"
+  },
+  "targets": {
+    "devfest-2018-cz": {
+      "hosting": {
+        "teddy": [
+          "devfest-teddy"
+        ]
+      }
+    }
   }
 }
